@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **kubernetes**
 
-- 👨‍💻 All of my projects are available on github repositories [http://github.com/kelvindisi/repositories](http://github.com/kelvindisi/repositories)
+- 👨‍💻 All of my projects are available on github repositories [http://github.com/kelvindisi/repositories](https://github.com/kelvindisi?tab=repositories)
 
 - 💬 Ask me about **react, springboot, java**
 
