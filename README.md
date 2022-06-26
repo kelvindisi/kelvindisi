@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Kelvin Ndisi, a fulltime full-stack developer 👨‍💻 currently in my final year in university pursuing a Bachelor of Science in Information Technology 🚀</div>  
+### <div align="center">I'm Kelvin Ndisi, a full-stack developer 👨‍💻 currently in my final year in university pursuing a Bachelor of Science in Information Technology 🚀</div>  
   
 
 - 🔭 I’m currently working on [Distributed Systems](https://github.com/kelvindisi)  
