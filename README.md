@@ -1,8 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
+ 
 ### <div align="center">I'm Kelvin Ndisi, a full-stack developer 👨‍💻 currently in my final year in university pursuing a Bachelor of Science in Information Technology 🚀</div>  
   
 
