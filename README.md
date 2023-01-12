@@ -1,6 +1,6 @@
 <div align="center">
  
-### <div align="center">I'm Kelvin Ndisi, a full-stack developer 👨‍💻 currently in my final year in university pursuing a Bachelor of Science in Information Technology 🚀</div>  
+### <div align="center">My Name is Kelvin Ndisi, a full-stack developer 👨‍💻 currently working on personal project using Java for Backend, React Js for frontend and tailwind-css with material design for UI design🚀</div>  
   
 
 - 🔭 I’m currently working on [Distributed Systems](https://github.com/kelvindisi)  
